@@ -26,10 +26,12 @@ To run STMA Arcade, simply download the project and open it in Visual Studio. Bu
 
 To play a game, simply click on the game's icon on the main menu. The screen will change to the game's interface, and you can start playing.
 
+## About the Developer
+
+STMA Arcade was developed by me. If you have any questions or feedback about STMA Arcade, please don't hesitate to contact me at stilianmanolov05@gmail.com.
+
 ## Contributing
 
 Contributions to STMA Arcade are welcome. If you find a bug or have a suggestion for a new game, please submit an issue or a pull request.
 
-## Credits
 
-STMA Arcade was developed by me.

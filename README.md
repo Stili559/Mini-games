@@ -5,6 +5,14 @@
 
 STMA Arcade is a collection of 10 mini-games built on Windows Forms. Each game is designed to provide a fun and engaging experience to the user. The games range from simple arcade-style games to puzzle games.
 
+## Contents
+
+- [Games](#games)
+- [Getting Started](#getting-started)
+- [Playing a Game](#playing-a-game)
+- [About the Developer](#about-the-developer)
+- [Contributing](#contributing)
+
 ## Games
 
 The following is a list of games included in this project:
@@ -12,12 +20,14 @@ The following is a list of games included in this project:
 1. Snake
 2. Flappy Bird
 3. Pong
-5. Pong level 2
-6. Pong level 3
-7. Maze
-8. Maze level 2
-9. Tic Tac Toe
-10 Car game 
+4. Pong level 2
+5. Pong level 3
+6. Maze
+7. Maze level 2
+8. Tic Tac Toe
+9. Car game 
+10. Math game
+
 ## Getting Started
 
 To run STMA Arcade, simply download the project and open it in Visual Studio. Build the solution and run the project.
